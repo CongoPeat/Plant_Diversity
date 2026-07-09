@@ -17,7 +17,7 @@
 output_dir <- "PATH/TO/YOUR/OUTPUT/FOLDER"
 
 #READ IN DATA
-BD<-read.csv("FieldData-6Sites-Cleaned_12FEB.csv", header=TRUE)
+BD<-read.csv("Kanyama_et_al_2026_main_data.csv", header=TRUE)
 
 names(BD)
 
