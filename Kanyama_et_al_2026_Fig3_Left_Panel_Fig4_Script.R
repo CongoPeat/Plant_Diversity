@@ -14,7 +14,7 @@
 
 
 #READ IN DATA (BD=BASE DE DONNÉES)
-BD<-read.csv("FieldData-6Sites-Cleaned_12JUNE25.csv", header=TRUE)
+BD<-read.csv("Kanyama_et_al_2026_main_data.csv", header=TRUE)
 
 names(BD)
 
